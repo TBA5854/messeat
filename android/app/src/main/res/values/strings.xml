@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appwidget_text">HI</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="title">MESS-EAT</string>
+    <string name="next">Your Next Meal</string>
+    <string name="meal_type">LUNCH</string>
+    <string name="menu">shit 1,shit 2, shit 3,shit 4, coffee</string>
+    <string name="time">12:30 PM - 2:30 PM</string>
+</resources>
